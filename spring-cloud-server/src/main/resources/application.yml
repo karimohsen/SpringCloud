@@ -5,5 +5,9 @@ spring:
         git:
           uri:  https://github.com/karimohsen/SpringCloudConfig
           searchPaths: ConfigData
+management:
+  security:
+    enabled: false
 server:
   port: 8001
+
