@@ -1,5 +1,5 @@
-# Spring cloud bus
-___________________
+# Spring cloud bus using ActiveMQ
+_________________________________
 
 This repository contains a demo for spring cloud server and spring cloud client that uses specific config files in server which the server optain from a repository on github
 
